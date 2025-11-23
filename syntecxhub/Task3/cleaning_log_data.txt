@@ -1,0 +1,2 @@
+Cleaning completed successfully.
+Rows after cleaning: 9
