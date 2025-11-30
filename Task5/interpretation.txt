@@ -1,0 +1,1 @@
+The distribution of profit is right-skewed (tail toward higher values), with a spread (std dev) of approximately 390.34. Histogram and KDE plots show concentration of values, while the boxplot highlights potential outliers and overall data spread.

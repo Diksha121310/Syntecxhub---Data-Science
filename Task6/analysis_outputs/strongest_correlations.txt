@@ -1,0 +1,15 @@
+Strongest positive correlations:
+sales     profit      0.876068
+profit    sales       0.876068
+sales     quantity    0.141189
+quantity  sales       0.141189
+          profit      0.099900
+dtype: float64
+
+Strongest negative correlations:
+quantity  profit      0.099900
+profit    quantity    0.099900
+sales     quantity    0.141189
+quantity  sales       0.141189
+sales     profit      0.876068
+dtype: float64

@@ -1,0 +1,13 @@
+
+Sales Summary Report
+---------------------------------------
+Date Range:2024-01-01 to 2024-12-30
+
+Total Sales:1026831
+Average Daily Sales:2813.24
+
+Best Month:July 2024(103009)
+Best Quarter:2024-Q2(263423)
+
+Top Category:Beauty & Personal Care(282677)
+Lowest Category:Mobile Phones(245189)

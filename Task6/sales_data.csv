@@ -1,0 +1,366 @@
+date,sales,category,quantity,profit,location,product_name
+2024-01-01,1349,Fashion,7,299.51,Delhi,Jeans
+2024-01-02,4706,Kitchen Essentials,5,1203.91,Delhi,Mixer Grinder
+2024-01-03,4889,Mobile Phones,2,1116.68,Bangalore,OnePlus 11
+2024-01-04,2481,Beauty & Personal Care,7,565.38,Hyderabad,Perfume
+2024-01-05,3396,Fashion,8,756.08,Chennai,Jeans
+2024-01-06,3190,Mobile Phones,7,1076.55,Bangalore,Samsung S23
+2024-01-07,1439,Mobile Phones,1,482.38,Hyderabad,Pixel 8
+2024-01-08,2804,Fashion,1,428.67,Delhi,Dress
+2024-01-09,1794,Kitchen Essentials,9,507.62,Bangalore,Mixer Grinder
+2024-01-10,1175,Kitchen Essentials,8,215.46,Bangalore,Knife Set
+2024-01-11,4075,Kitchen Essentials,3,1208.19,Bangalore,Non-stick Pan
+2024-01-12,4551,Fashion,9,955.18,Delhi,T-Shirt
+2024-01-13,4914,Kitchen Essentials,5,824.09,Delhi,Non-stick Pan
+2024-01-14,984,Beauty & Personal Care,2,162.61,Bangalore,Body Lotion
+2024-01-15,1214,Kitchen Essentials,1,299.88,Delhi,Pressure Cooker
+2024-01-16,829,Kitchen Essentials,3,273.45,Hyderabad,Knife Set
+2024-01-17,1619,Kitchen Essentials,2,301.74,Hyderabad,Mixer Grinder
+2024-01-18,4697,Beauty & Personal Care,6,760.85,Mumbai,Body Lotion
+2024-01-19,3742,Fashion,3,1134.93,Hyderabad,Dress
+2024-01-20,2376,Fashion,8,391.95,Chennai,T-Shirt
+2024-01-21,704,Mobile Phones,2,236.93,Chennai,iPhone 14
+2024-01-22,3080,Kitchen Essentials,1,752.84,Bangalore,Non-stick Pan
+2024-01-23,2620,Beauty & Personal Care,9,730.09,Hyderabad,Body Lotion
+2024-01-24,1094,Mobile Phones,2,203.39,Mumbai,iPhone 14
+2024-01-25,1094,Mobile Phones,8,311.25,Mumbai,Samsung S23
+2024-01-26,1233,Fashion,6,235.71,Chennai,Jacket
+2024-01-27,565,Kitchen Essentials,5,106.73,Hyderabad,Non-stick Pan
+2024-01-28,2279,Fashion,1,568.34,Hyderabad,Jacket
+2024-01-29,4178,Fashion,5,1220.59,Hyderabad,T-Shirt
+2024-01-30,827,Kitchen Essentials,2,126.24,Delhi,Pressure Cooker
+2024-01-31,538,Kitchen Essentials,1,104.7,Mumbai,Non-stick Pan
+2024-02-01,4607,Kitchen Essentials,6,1418.67,Hyderabad,Non-stick Pan
+2024-02-02,3862,Kitchen Essentials,1,988.05,Bangalore,Knife Set
+2024-02-03,2319,Kitchen Essentials,2,348.42,Chennai,Non-stick Pan
+2024-02-04,3166,Fashion,4,838.91,Hyderabad,Jeans
+2024-02-05,1052,Beauty & Personal Care,7,355.39,Chennai,Perfume
+2024-02-06,3977,Mobile Phones,2,897.98,Bangalore,Pixel 8
+2024-02-07,4085,Mobile Phones,7,1369.44,Delhi,iPhone 14
+2024-02-08,4930,Fashion,3,1284.75,Hyderabad,Jacket
+2024-02-09,2900,Beauty & Personal Care,3,821.02,Chennai,Perfume
+2024-02-10,2834,Beauty & Personal Care,5,427.4,Hyderabad,Face Cream
+2024-02-11,3999,Mobile Phones,7,1279.72,Delhi,OnePlus 11
+2024-02-12,1554,Kitchen Essentials,5,270.56,Delhi,Pressure Cooker
+2024-02-13,2069,Kitchen Essentials,6,548.62,Hyderabad,Non-stick Pan
+2024-02-14,1603,Fashion,8,313.46,Chennai,Jacket
+2024-02-15,2615,Beauty & Personal Care,5,803.68,Bangalore,Perfume
+2024-02-16,2099,Mobile Phones,7,405.55,Delhi,iPhone 14
+2024-02-17,3611,Mobile Phones,2,986.06,Bangalore,OnePlus 11
+2024-02-18,2022,Fashion,5,398.19,Bangalore,Jacket
+2024-02-19,3786,Beauty & Personal Care,9,596.97,Mumbai,Shampoo
+2024-02-20,4362,Beauty & Personal Care,5,672.98,Chennai,Face Cream
+2024-02-21,1601,Beauty & Personal Care,7,287.4,Mumbai,Perfume
+2024-02-22,3958,Kitchen Essentials,6,1037.91,Hyderabad,Knife Set
+2024-02-23,1694,Fashion,1,376.39,Chennai,Jeans
+2024-02-24,573,Mobile Phones,1,143.9,Hyderabad,Pixel 8
+2024-02-25,1655,Mobile Phones,9,364.14,Bangalore,Pixel 8
+2024-02-26,3194,Fashion,6,1032.31,Delhi,Dress
+2024-02-27,4382,Kitchen Essentials,8,1445.11,Chennai,Mixer Grinder
+2024-02-28,3603,Fashion,4,1181.93,Hyderabad,Jeans
+2024-02-29,4342,Fashion,3,1230.32,Delhi,T-Shirt
+2024-03-01,1717,Kitchen Essentials,6,389.53,Bangalore,Mixer Grinder
+2024-03-02,4694,Mobile Phones,8,882.82,Delhi,Pixel 8
+2024-03-03,1876,Kitchen Essentials,4,653.57,Bangalore,Pressure Cooker
+2024-03-04,2407,Mobile Phones,6,613.15,Bangalore,iPhone 14
+2024-03-05,3322,Mobile Phones,3,510.34,Hyderabad,iPhone 14
+2024-03-06,3567,Mobile Phones,4,1022.91,Hyderabad,OnePlus 11
+2024-03-07,4368,Mobile Phones,7,1340.82,Chennai,OnePlus 11
+2024-03-08,851,Kitchen Essentials,5,224.48,Bangalore,Pressure Cooker
+2024-03-09,2342,Mobile Phones,1,773.48,Delhi,Samsung S23
+2024-03-10,4191,Fashion,9,1305.81,Mumbai,Dress
+2024-03-11,3069,Beauty & Personal Care,6,867.97,Bangalore,Body Lotion
+2024-03-12,4029,Fashion,9,1371.84,Delhi,Jeans
+2024-03-13,4507,Beauty & Personal Care,6,929.53,Bangalore,Shampoo
+2024-03-14,4218,Fashion,4,988.1,Bangalore,Jacket
+2024-03-15,1838,Mobile Phones,4,406.78,Delhi,Samsung S23
+2024-03-16,501,Kitchen Essentials,5,141.82,Bangalore,Knife Set
+2024-03-17,3249,Beauty & Personal Care,2,958.41,Hyderabad,Shampoo
+2024-03-18,4972,Kitchen Essentials,9,747.34,Chennai,Pressure Cooker
+2024-03-19,4241,Kitchen Essentials,2,1440.35,Bangalore,Non-stick Pan
+2024-03-20,1761,Fashion,4,598.19,Hyderabad,Jeans
+2024-03-21,3555,Kitchen Essentials,9,748.68,Hyderabad,Non-stick Pan
+2024-03-22,796,Fashion,4,272.66,Chennai,Jeans
+2024-03-23,906,Fashion,5,176.91,Delhi,Dress
+2024-03-24,4331,Fashion,3,1065.27,Bangalore,Dress
+2024-03-25,1092,Mobile Phones,9,222.55,Hyderabad,Samsung S23
+2024-03-26,1037,Beauty & Personal Care,2,210.32,Chennai,Shampoo
+2024-03-27,3565,Beauty & Personal Care,8,833.87,Delhi,Body Lotion
+2024-03-28,1069,Beauty & Personal Care,4,177.36,Delhi,Shampoo
+2024-03-29,1379,Kitchen Essentials,2,414.22,Hyderabad,Non-stick Pan
+2024-03-30,1319,Fashion,8,341.73,Chennai,Jeans
+2024-03-31,2287,Mobile Phones,6,574.81,Mumbai,Pixel 8
+2024-04-01,1734,Mobile Phones,9,533.21,Delhi,Pixel 8
+2024-04-02,1813,Mobile Phones,4,421.05,Hyderabad,Samsung S23
+2024-04-03,828,Fashion,3,253.66,Mumbai,Jeans
+2024-04-04,857,Kitchen Essentials,6,225.3,Mumbai,Knife Set
+2024-04-05,4679,Mobile Phones,2,1540.3,Delhi,OnePlus 11
+2024-04-06,4231,Beauty & Personal Care,6,1411.66,Delhi,Shampoo
+2024-04-07,3983,Beauty & Personal Care,6,1393.71,Mumbai,Face Cream
+2024-04-08,3126,Mobile Phones,7,553.69,Chennai,OnePlus 11
+2024-04-09,4374,Fashion,9,830.95,Mumbai,Dress
+2024-04-10,3271,Fashion,2,609.57,Delhi,Dress
+2024-04-11,1507,Mobile Phones,2,289.04,Bangalore,OnePlus 11
+2024-04-12,1300,Fashion,7,307.34,Chennai,Jeans
+2024-04-13,1324,Beauty & Personal Care,5,271.79,Delhi,Shampoo
+2024-04-14,1964,Mobile Phones,7,585.17,Hyderabad,iPhone 14
+2024-04-15,2864,Mobile Phones,1,714.64,Mumbai,Samsung S23
+2024-04-16,1409,Beauty & Personal Care,3,237.1,Bangalore,Face Cream
+2024-04-17,3478,Mobile Phones,5,762.21,Mumbai,iPhone 14
+2024-04-18,4531,Beauty & Personal Care,7,942.82,Bangalore,Body Lotion
+2024-04-19,2306,Beauty & Personal Care,2,682.38,Delhi,Perfume
+2024-04-20,1744,Fashion,3,457.52,Delhi,Jeans
+2024-04-21,3544,Beauty & Personal Care,9,1235.92,Delhi,Face Cream
+2024-04-22,3911,Beauty & Personal Care,6,647.46,Hyderabad,Body Lotion
+2024-04-23,3901,Fashion,5,915.88,Delhi,T-Shirt
+2024-04-24,852,Kitchen Essentials,5,141.2,Chennai,Non-stick Pan
+2024-04-25,4416,Kitchen Essentials,2,915.23,Delhi,Pressure Cooker
+2024-04-26,4542,Mobile Phones,6,1355.68,Delhi,iPhone 14
+2024-04-27,2380,Fashion,2,421.72,Hyderabad,T-Shirt
+2024-04-28,3198,Mobile Phones,3,954.87,Delhi,iPhone 14
+2024-04-29,564,Beauty & Personal Care,1,173.02,Bangalore,Perfume
+2024-04-30,4526,Beauty & Personal Care,5,1264.49,Mumbai,Shampoo
+2024-05-01,1439,Kitchen Essentials,7,399.97,Mumbai,Non-stick Pan
+2024-05-02,1628,Fashion,4,319.7,Bangalore,Jeans
+2024-05-03,4764,Kitchen Essentials,9,1454.9,Bangalore,Non-stick Pan
+2024-05-04,4195,Kitchen Essentials,9,1227.59,Bangalore,Pressure Cooker
+2024-05-05,3384,Beauty & Personal Care,5,822.8,Mumbai,Body Lotion
+2024-05-06,2830,Kitchen Essentials,3,840.74,Delhi,Pressure Cooker
+2024-05-07,3118,Beauty & Personal Care,4,1068.45,Hyderabad,Face Cream
+2024-05-08,3727,Kitchen Essentials,4,883.05,Chennai,Pressure Cooker
+2024-05-09,2253,Fashion,6,451.55,Chennai,T-Shirt
+2024-05-10,3455,Beauty & Personal Care,9,632.99,Mumbai,Face Cream
+2024-05-11,1710,Beauty & Personal Care,9,594.91,Hyderabad,Perfume
+2024-05-12,4341,Mobile Phones,3,1471.54,Chennai,Samsung S23
+2024-05-13,2945,Mobile Phones,9,719.67,Bangalore,Samsung S23
+2024-05-14,4627,Beauty & Personal Care,5,736.74,Chennai,Face Cream
+2024-05-15,909,Kitchen Essentials,1,245.18,Hyderabad,Knife Set
+2024-05-16,3333,Kitchen Essentials,1,644.53,Delhi,Non-stick Pan
+2024-05-17,2738,Kitchen Essentials,4,954.2,Bangalore,Knife Set
+2024-05-18,4329,Beauty & Personal Care,4,1227.49,Bangalore,Perfume
+2024-05-19,4922,Fashion,8,803.52,Hyderabad,Dress
+2024-05-20,1220,Fashion,3,204.76,Hyderabad,T-Shirt
+2024-05-21,3890,Kitchen Essentials,4,1326.72,Delhi,Knife Set
+2024-05-22,1898,Mobile Phones,2,581.42,Hyderabad,OnePlus 11
+2024-05-23,4017,Kitchen Essentials,3,1109.48,Mumbai,Non-stick Pan
+2024-05-24,612,Mobile Phones,2,200.92,Delhi,OnePlus 11
+2024-05-25,4062,Fashion,5,1387.33,Chennai,Jacket
+2024-05-26,1246,Fashion,7,304.46,Delhi,T-Shirt
+2024-05-27,4248,Beauty & Personal Care,9,1127.51,Hyderabad,Body Lotion
+2024-05-28,2466,Mobile Phones,2,401.46,Chennai,iPhone 14
+2024-05-29,2233,Kitchen Essentials,3,481.1,Chennai,Non-stick Pan
+2024-05-30,1274,Fashion,5,282.55,Hyderabad,Jeans
+2024-05-31,4476,Beauty & Personal Care,5,972.12,Mumbai,Shampoo
+2024-06-01,3506,Mobile Phones,5,635.63,Hyderabad,OnePlus 11
+2024-06-02,2573,Kitchen Essentials,7,894.23,Mumbai,Non-stick Pan
+2024-06-03,1803,Mobile Phones,5,446.92,Delhi,iPhone 14
+2024-06-04,3011,Beauty & Personal Care,7,839.22,Delhi,Perfume
+2024-06-05,631,Kitchen Essentials,9,104.62,Delhi,Non-stick Pan
+2024-06-06,1263,Kitchen Essentials,7,318.32,Mumbai,Knife Set
+2024-06-07,538,Fashion,7,181.0,Delhi,Jeans
+2024-06-08,2876,Fashion,8,735.23,Bangalore,Jeans
+2024-06-09,4751,Beauty & Personal Care,9,930.11,Hyderabad,Body Lotion
+2024-06-10,4652,Mobile Phones,3,736.03,Delhi,Pixel 8
+2024-06-11,3698,Mobile Phones,1,833.58,Hyderabad,Samsung S23
+2024-06-12,3219,Beauty & Personal Care,7,1109.87,Delhi,Body Lotion
+2024-06-13,1375,Mobile Phones,1,221.31,Mumbai,OnePlus 11
+2024-06-14,4257,Mobile Phones,4,981.8,Chennai,Samsung S23
+2024-06-15,2977,Fashion,7,756.41,Chennai,Dress
+2024-06-16,4698,Kitchen Essentials,8,933.56,Mumbai,Non-stick Pan
+2024-06-17,2585,Kitchen Essentials,5,566.58,Mumbai,Pressure Cooker
+2024-06-18,2051,Beauty & Personal Care,3,392.18,Bangalore,Shampoo
+2024-06-19,3263,Beauty & Personal Care,4,531.23,Chennai,Body Lotion
+2024-06-20,3073,Mobile Phones,5,832.82,Hyderabad,Samsung S23
+2024-06-21,4238,Beauty & Personal Care,1,691.01,Chennai,Perfume
+2024-06-22,3150,Kitchen Essentials,9,664.82,Chennai,Non-stick Pan
+2024-06-23,595,Mobile Phones,5,201.17,Delhi,Samsung S23
+2024-06-24,4936,Mobile Phones,2,1175.85,Bangalore,OnePlus 11
+2024-06-25,2498,Kitchen Essentials,4,854.32,Delhi,Knife Set
+2024-06-26,4814,Beauty & Personal Care,9,994.18,Delhi,Shampoo
+2024-06-27,4284,Beauty & Personal Care,7,953.39,Mumbai,Face Cream
+2024-06-28,828,Kitchen Essentials,5,208.04,Delhi,Pressure Cooker
+2024-06-29,876,Beauty & Personal Care,7,146.52,Chennai,Body Lotion
+2024-06-30,4958,Fashion,9,862.51,Delhi,Jacket
+2024-07-01,4011,Kitchen Essentials,4,1221.07,Mumbai,Non-stick Pan
+2024-07-02,3853,Fashion,2,662.14,Chennai,Jeans
+2024-07-03,4199,Mobile Phones,9,970.45,Mumbai,OnePlus 11
+2024-07-04,3675,Mobile Phones,7,643.76,Delhi,Pixel 8
+2024-07-05,3855,Fashion,7,1078.49,Delhi,T-Shirt
+2024-07-06,4418,Mobile Phones,6,1242.39,Mumbai,Pixel 8
+2024-07-07,1542,Beauty & Personal Care,3,333.03,Mumbai,Perfume
+2024-07-08,650,Fashion,8,158.08,Hyderabad,T-Shirt
+2024-07-09,1610,Beauty & Personal Care,6,396.85,Mumbai,Shampoo
+2024-07-10,4868,Beauty & Personal Care,5,1676.81,Hyderabad,Body Lotion
+2024-07-11,4243,Fashion,9,1336.0,Hyderabad,Dress
+2024-07-12,4571,Beauty & Personal Care,7,1490.78,Delhi,Perfume
+2024-07-13,3801,Fashion,1,877.64,Chennai,T-Shirt
+2024-07-14,4577,Kitchen Essentials,7,1435.41,Mumbai,Mixer Grinder
+2024-07-15,3229,Mobile Phones,7,710.27,Chennai,OnePlus 11
+2024-07-16,4357,Kitchen Essentials,3,1479.16,Chennai,Pressure Cooker
+2024-07-17,2161,Kitchen Essentials,1,428.79,Chennai,Non-stick Pan
+2024-07-18,3791,Mobile Phones,3,771.88,Delhi,iPhone 14
+2024-07-19,2133,Beauty & Personal Care,4,706.25,Bangalore,Face Cream
+2024-07-20,2590,Mobile Phones,7,748.8,Mumbai,iPhone 14
+2024-07-21,4025,Mobile Phones,6,1149.51,Delhi,Samsung S23
+2024-07-22,1494,Fashion,7,429.61,Chennai,Dress
+2024-07-23,1396,Beauty & Personal Care,7,223.42,Mumbai,Face Cream
+2024-07-24,4850,Fashion,6,1162.11,Mumbai,Jacket
+2024-07-25,3034,Fashion,5,980.81,Mumbai,Jeans
+2024-07-26,4184,Kitchen Essentials,4,1283.28,Delhi,Knife Set
+2024-07-27,3024,Fashion,2,605.72,Chennai,Jeans
+2024-07-28,4591,Beauty & Personal Care,5,816.2,Hyderabad,Shampoo
+2024-07-29,2399,Kitchen Essentials,5,617.02,Delhi,Knife Set
+2024-07-30,2880,Mobile Phones,9,547.24,Mumbai,iPhone 14
+2024-07-31,2998,Kitchen Essentials,3,963.22,Hyderabad,Pressure Cooker
+2024-08-01,4419,Fashion,1,1196.19,Chennai,Dress
+2024-08-02,870,Fashion,4,269.79,Chennai,Jeans
+2024-08-03,3510,Beauty & Personal Care,3,780.98,Bangalore,Shampoo
+2024-08-04,1760,Beauty & Personal Care,9,415.69,Delhi,Shampoo
+2024-08-05,4940,Mobile Phones,6,1250.23,Chennai,iPhone 14
+2024-08-06,1863,Mobile Phones,1,376.28,Hyderabad,Pixel 8
+2024-08-07,2627,Fashion,8,563.53,Delhi,T-Shirt
+2024-08-08,3053,Kitchen Essentials,2,965.57,Chennai,Pressure Cooker
+2024-08-09,2679,Beauty & Personal Care,6,738.84,Bangalore,Perfume
+2024-08-10,3161,Fashion,7,617.74,Hyderabad,Dress
+2024-08-11,4496,Kitchen Essentials,2,901.46,Bangalore,Non-stick Pan
+2024-08-12,816,Fashion,9,176.84,Mumbai,T-Shirt
+2024-08-13,4389,Beauty & Personal Care,7,1268.98,Delhi,Face Cream
+2024-08-14,4279,Fashion,9,1031.11,Delhi,T-Shirt
+2024-08-15,1696,Mobile Phones,3,433.04,Delhi,Samsung S23
+2024-08-16,4460,Fashion,9,1519.85,Hyderabad,Jacket
+2024-08-17,1330,Fashion,1,413.42,Hyderabad,T-Shirt
+2024-08-18,4150,Mobile Phones,9,754.8,Bangalore,iPhone 14
+2024-08-19,2042,Beauty & Personal Care,3,566.25,Delhi,Face Cream
+2024-08-20,4420,Kitchen Essentials,4,1449.3,Hyderabad,Non-stick Pan
+2024-08-21,2142,Mobile Phones,4,609.9,Bangalore,OnePlus 11
+2024-08-22,4231,Mobile Phones,9,835.46,Chennai,Pixel 8
+2024-08-23,671,Beauty & Personal Care,6,173.81,Chennai,Face Cream
+2024-08-24,1542,Fashion,1,237.84,Bangalore,Dress
+2024-08-25,1421,Kitchen Essentials,2,404.24,Chennai,Non-stick Pan
+2024-08-26,879,Beauty & Personal Care,2,136.18,Chennai,Body Lotion
+2024-08-27,2073,Beauty & Personal Care,7,366.68,Bangalore,Body Lotion
+2024-08-28,1044,Mobile Phones,1,218.14,Bangalore,iPhone 14
+2024-08-29,1746,Fashion,4,546.62,Bangalore,Dress
+2024-08-30,887,Fashion,7,229.23,Delhi,T-Shirt
+2024-08-31,2397,Beauty & Personal Care,4,420.37,Hyderabad,Perfume
+2024-09-01,3955,Kitchen Essentials,5,867.04,Chennai,Non-stick Pan
+2024-09-02,1298,Mobile Phones,8,398.87,Hyderabad,OnePlus 11
+2024-09-03,4648,Kitchen Essentials,1,1466.41,Bangalore,Knife Set
+2024-09-04,849,Kitchen Essentials,2,157.74,Mumbai,Pressure Cooker
+2024-09-05,917,Fashion,2,188.56,Bangalore,Jeans
+2024-09-06,4439,Beauty & Personal Care,3,678.48,Hyderabad,Shampoo
+2024-09-07,3235,Mobile Phones,8,657.04,Mumbai,Samsung S23
+2024-09-08,1613,Fashion,2,509.23,Delhi,Jeans
+2024-09-09,1906,Beauty & Personal Care,3,286.35,Chennai,Body Lotion
+2024-09-10,2677,Beauty & Personal Care,9,601.8,Chennai,Body Lotion
+2024-09-11,1936,Beauty & Personal Care,6,434.16,Hyderabad,Perfume
+2024-09-12,3144,Kitchen Essentials,3,991.99,Hyderabad,Mixer Grinder
+2024-09-13,954,Kitchen Essentials,4,256.55,Chennai,Knife Set
+2024-09-14,4573,Mobile Phones,9,1020.99,Bangalore,Samsung S23
+2024-09-15,1944,Beauty & Personal Care,7,408.11,Chennai,Perfume
+2024-09-16,2912,Fashion,8,1001.73,Chennai,Jacket
+2024-09-17,2051,Fashion,6,469.26,Hyderabad,Jeans
+2024-09-18,1543,Fashion,4,462.49,Mumbai,T-Shirt
+2024-09-19,3071,Beauty & Personal Care,3,492.58,Hyderabad,Shampoo
+2024-09-20,4084,Kitchen Essentials,2,747.97,Bangalore,Mixer Grinder
+2024-09-21,2247,Mobile Phones,3,546.47,Mumbai,OnePlus 11
+2024-09-22,1824,Beauty & Personal Care,3,373.54,Chennai,Face Cream
+2024-09-23,4348,Mobile Phones,3,1446.57,Hyderabad,OnePlus 11
+2024-09-24,4781,Kitchen Essentials,3,1514.57,Mumbai,Pressure Cooker
+2024-09-25,685,Beauty & Personal Care,7,117.45,Hyderabad,Shampoo
+2024-09-26,2822,Fashion,8,567.05,Hyderabad,Dress
+2024-09-27,2728,Mobile Phones,3,797.22,Mumbai,OnePlus 11
+2024-09-28,1971,Beauty & Personal Care,1,521.46,Bangalore,Body Lotion
+2024-09-29,1738,Fashion,5,385.41,Hyderabad,Jacket
+2024-09-30,3129,Mobile Phones,2,854.51,Delhi,Samsung S23
+2024-10-01,4800,Mobile Phones,6,1441.67,Delhi,OnePlus 11
+2024-10-02,2961,Mobile Phones,7,893.5,Mumbai,OnePlus 11
+2024-10-03,2194,Beauty & Personal Care,9,728.7,Mumbai,Shampoo
+2024-10-04,4114,Fashion,8,702.88,Delhi,Dress
+2024-10-05,4974,Kitchen Essentials,6,1210.3,Mumbai,Mixer Grinder
+2024-10-06,915,Beauty & Personal Care,8,276.23,Bangalore,Body Lotion
+2024-10-07,3083,Beauty & Personal Care,2,706.03,Mumbai,Shampoo
+2024-10-08,2825,Fashion,5,462.89,Mumbai,Jacket
+2024-10-09,3344,Mobile Phones,6,903.11,Mumbai,Samsung S23
+2024-10-10,1773,Mobile Phones,3,498.45,Bangalore,Samsung S23
+2024-10-11,3098,Beauty & Personal Care,1,867.16,Mumbai,Body Lotion
+2024-10-12,4724,Kitchen Essentials,3,1134.59,Mumbai,Pressure Cooker
+2024-10-13,963,Beauty & Personal Care,6,280.5,Chennai,Face Cream
+2024-10-14,3000,Kitchen Essentials,9,853.44,Chennai,Knife Set
+2024-10-15,1592,Beauty & Personal Care,8,307.74,Bangalore,Face Cream
+2024-10-16,4368,Fashion,6,696.12,Chennai,T-Shirt
+2024-10-17,2052,Mobile Phones,3,321.92,Chennai,OnePlus 11
+2024-10-18,3829,Mobile Phones,4,1221.49,Hyderabad,OnePlus 11
+2024-10-19,600,Mobile Phones,5,192.66,Bangalore,Pixel 8
+2024-10-20,1012,Kitchen Essentials,8,175.18,Mumbai,Knife Set
+2024-10-21,3349,Beauty & Personal Care,4,980.15,Bangalore,Perfume
+2024-10-22,646,Beauty & Personal Care,8,100.42,Mumbai,Body Lotion
+2024-10-23,663,Kitchen Essentials,3,108.0,Mumbai,Non-stick Pan
+2024-10-24,2483,Beauty & Personal Care,4,636.57,Delhi,Body Lotion
+2024-10-25,3544,Fashion,7,1013.49,Hyderabad,T-Shirt
+2024-10-26,3728,Beauty & Personal Care,5,712.67,Chennai,Shampoo
+2024-10-27,2545,Kitchen Essentials,5,402.86,Bangalore,Knife Set
+2024-10-28,2759,Kitchen Essentials,1,574.3,Chennai,Pressure Cooker
+2024-10-29,2234,Fashion,4,629.01,Mumbai,Jacket
+2024-10-30,4464,Beauty & Personal Care,6,1203.96,Mumbai,Shampoo
+2024-10-31,3390,Fashion,1,742.38,Hyderabad,T-Shirt
+2024-11-01,4621,Beauty & Personal Care,9,966.71,Mumbai,Face Cream
+2024-11-02,3513,Beauty & Personal Care,4,538.41,Mumbai,Face Cream
+2024-11-03,2925,Beauty & Personal Care,2,775.68,Chennai,Perfume
+2024-11-04,1698,Kitchen Essentials,9,476.4,Chennai,Knife Set
+2024-11-05,3440,Kitchen Essentials,1,1198.34,Delhi,Pressure Cooker
+2024-11-06,3439,Beauty & Personal Care,7,777.62,Chennai,Face Cream
+2024-11-07,2176,Kitchen Essentials,2,687.85,Chennai,Knife Set
+2024-11-08,1217,Fashion,3,345.08,Mumbai,T-Shirt
+2024-11-09,3943,Kitchen Essentials,5,638.35,Bangalore,Non-stick Pan
+2024-11-10,4151,Beauty & Personal Care,4,1450.2,Chennai,Body Lotion
+2024-11-11,4850,Mobile Phones,2,1552.21,Mumbai,Pixel 8
+2024-11-12,4349,Fashion,7,1460.82,Hyderabad,Jeans
+2024-11-13,2098,Fashion,7,347.25,Hyderabad,Dress
+2024-11-14,1356,Beauty & Personal Care,8,208.89,Chennai,Face Cream
+2024-11-15,2458,Mobile Phones,2,574.66,Chennai,iPhone 14
+2024-11-16,3754,Kitchen Essentials,6,839.63,Mumbai,Pressure Cooker
+2024-11-17,2668,Mobile Phones,7,420.65,Chennai,iPhone 14
+2024-11-18,2248,Fashion,2,715.26,Delhi,Jacket
+2024-11-19,759,Beauty & Personal Care,6,120.56,Hyderabad,Perfume
+2024-11-20,3106,Fashion,9,502.97,Delhi,Jacket
+2024-11-21,2648,Fashion,4,456.54,Chennai,T-Shirt
+2024-11-22,4705,Mobile Phones,9,1243.51,Delhi,iPhone 14
+2024-11-23,3817,Beauty & Personal Care,5,923.14,Hyderabad,Perfume
+2024-11-24,1813,Mobile Phones,2,312.1,Mumbai,iPhone 14
+2024-11-25,3158,Fashion,5,851.41,Delhi,Jacket
+2024-11-26,2286,Beauty & Personal Care,8,637.57,Hyderabad,Body Lotion
+2024-11-27,4542,Fashion,7,1272.71,Chennai,Jeans
+2024-11-28,3895,Kitchen Essentials,6,1294.19,Mumbai,Knife Set
+2024-11-29,1747,Kitchen Essentials,5,362.68,Mumbai,Knife Set
+2024-11-30,2116,Mobile Phones,3,427.35,Bangalore,OnePlus 11
+2024-12-01,2992,Fashion,5,829.77,Bangalore,Jeans
+2024-12-02,4747,Beauty & Personal Care,8,863.12,Mumbai,Body Lotion
+2024-12-03,4119,Beauty & Personal Care,3,1145.97,Bangalore,Face Cream
+2024-12-04,1753,Beauty & Personal Care,1,576.94,Bangalore,Shampoo
+2024-12-05,2468,Fashion,6,814.48,Hyderabad,Dress
+2024-12-06,2671,Kitchen Essentials,6,553.28,Hyderabad,Pressure Cooker
+2024-12-07,3776,Mobile Phones,9,882.91,Hyderabad,Pixel 8
+2024-12-08,3663,Fashion,9,923.75,Hyderabad,Dress
+2024-12-09,3699,Kitchen Essentials,1,872.6,Bangalore,Knife Set
+2024-12-10,1786,Kitchen Essentials,8,349.43,Chennai,Non-stick Pan
+2024-12-11,3518,Beauty & Personal Care,5,629.67,Mumbai,Shampoo
+2024-12-12,3333,Beauty & Personal Care,1,974.73,Chennai,Face Cream
+2024-12-13,3113,Kitchen Essentials,3,900.44,Delhi,Pressure Cooker
+2024-12-14,1399,Fashion,3,262.26,Mumbai,T-Shirt
+2024-12-15,802,Beauty & Personal Care,5,134.25,Mumbai,Perfume
+2024-12-16,3390,Beauty & Personal Care,3,757.66,Hyderabad,Perfume
+2024-12-17,3416,Fashion,7,804.84,Delhi,Dress
+2024-12-18,1025,Fashion,4,237.96,Hyderabad,Dress
+2024-12-19,3781,Mobile Phones,7,1082.54,Bangalore,OnePlus 11
+2024-12-20,3823,Kitchen Essentials,7,1305.42,Bangalore,Non-stick Pan
+2024-12-21,2648,Beauty & Personal Care,4,646.68,Hyderabad,Perfume
+2024-12-22,1546,Beauty & Personal Care,4,379.72,Delhi,Shampoo
+2024-12-23,1516,Fashion,6,228.53,Mumbai,Jacket
+2024-12-24,1844,Mobile Phones,7,593.05,Chennai,iPhone 14
+2024-12-25,3505,Kitchen Essentials,7,558.11,Chennai,Non-stick Pan
+2024-12-26,3977,Beauty & Personal Care,6,1220.4,Hyderabad,Shampoo
+2024-12-27,3249,Fashion,7,918.51,Mumbai,Jacket
+2024-12-28,1949,Kitchen Essentials,1,300.55,Hyderabad,Mixer Grinder
+2024-12-29,1287,Beauty & Personal Care,3,447.01,Hyderabad,Perfume
+2024-12-30,2121,Kitchen Essentials,6,696.47,Mumbai,Non-stick Pan
