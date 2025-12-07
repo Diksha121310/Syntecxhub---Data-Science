@@ -1,0 +1,47 @@
+Netflix Dataset - Insight Report
+-----------------------------------
+
+1. Counts by Type:
+type
+TV Show    29
+Movie      25
+Name: count, dtype: int64
+
+2. Trend by Release Year:
+year
+2004    1
+2010    1
+2015    1
+2016    1
+2017    2
+2018    4
+2019    6
+2020    9
+2021    4
+2022    6
+2023    8
+2024    7
+2025    3
+2026    1
+Name: count, dtype: int64
+
+3. Top 10 Genres:
+main_genre
+Drama        12
+Action        9
+Fantasy       6
+Crime         4
+Sci-Fi        4
+Horror        3
+Mystery       3
+Romance       2
+Adventure     2
+Thriller      2
+Name: count, dtype: int64
+
+4. Key Insights:
+Movies dominate platform content.
+Content production has grown significantly after 2015.
+A few genres like Drama & Comedy dominate catalog.
+Runtime distribution shows high variance in movies.
+TV Shows have more consistent episode runtimes.

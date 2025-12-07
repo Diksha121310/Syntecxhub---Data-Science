@@ -1,0 +1,31 @@
+Titanic Dataset - Insight Report
+--------------------------------
+
+1. Survival Rate by Gender:
+gender
+female    0.597403
+male      0.414634
+Name: survived, dtype: float64
+
+2. Survival Rate by Class:
+class
+First     0.520833
+Second    0.571429
+Third     0.451613
+Name: survived, dtype: float64
+
+3. Survival Rate by Age Group:
+age_group
+Child          0.722222
+Teen           0.409091
+Young Adult    0.412698
+Adult          0.554054
+Senior         0.315789
+Name: survived, dtype: float64
+
+4. Key Insights:
+Females show higher survival probability than males.
+First-class passengers have the highest survival rate.
+Children survive more often than adults and seniors.
+Higher fares correlate with higher survival.
+Seniors show lowest survival rates.

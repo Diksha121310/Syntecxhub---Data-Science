@@ -1,0 +1,34 @@
+COVID-19 Data Analysis Report
+----------------------------
+
+Key Insights:
+
+Country: Brazil
+Peak on 2023-01-06 with 500 cases
+Peak on 2023-01-10 with 400 cases
+Peak on 2023-01-14 with 300 cases
+Peak on 2023-01-18 with 300 cases
+
+Country: Germany
+Peak on 2023-01-06 with 200 cases
+Peak on 2023-01-10 with 200 cases
+Peak on 2023-01-14 with 200 cases
+Peak on 2023-01-18 with 200 cases
+
+Country: India
+Peak on 2023-01-06 with 400 cases
+Peak on 2023-01-10 with 350 cases
+Peak on 2023-01-14 with 300 cases
+Peak on 2023-01-18 with 300 cases
+
+Country: UK
+Peak on 2023-01-06 with 250 cases
+Peak on 2023-01-10 with 200 cases
+Peak on 2023-01-14 with 200 cases
+Peak on 2023-01-18 with 200 cases
+
+Country: USA
+Peak on 2023-01-06 with 700 cases
+Peak on 2023-01-10 with 600 cases
+Peak on 2023-01-14 with 500 cases
+Peak on 2023-01-18 with 500 cases
