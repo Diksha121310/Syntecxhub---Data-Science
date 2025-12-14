@@ -1,0 +1,24 @@
+.metric-box {
+    background: #ffffff;
+    padding: 14px;                 /* reduced */
+    border-radius: 14px;
+    box-shadow: 0 6px 16px rgba(0,0,0,0.08);
+    text-align: center;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.metric-title {
+    font-size: 14px;               /* reduced */
+    font-weight: 600;
+    color: #333333;
+    white-space: nowrap;           /* prevents wrapping */
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.metric-value {
+    font-size: 22px;               /* reduced */
+    font-weight: 700;
+    color: #000000;
+}
